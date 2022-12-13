@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431560242211",
+    "project_id": "note-pro-ff5f7",
+    "storage_bucket": "note-pro-ff5f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431560242211:android:1f7890febfafbb7e172d96",
+        "android_client_info": {
+          "package_name": "com.vincent.hoangnguyen.notepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431560242211-33rbb8q24svbrofa3ndd344dttqd4175.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwq31H75XS8Ej5VUWNSgEP4tfBVbpRlqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431560242211-33rbb8q24svbrofa3ndd344dttqd4175.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
